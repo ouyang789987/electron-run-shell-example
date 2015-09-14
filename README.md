@@ -16,7 +16,7 @@ $ sudo npm install electron-prebuilt -g
 ```Shell
 $ mkdir -p ~/projects/electron-mbs
 $ cd ~/projects/electron-mbs
-$ git clone https://github.com/martinjackson/mbs-electron-app
+$ git clone https://github.com/martinjackson/mbs-electron-app.git
 ```
 #### initialize node modules
 ```Shell
