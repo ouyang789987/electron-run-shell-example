@@ -1,0 +1,12 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Martin A. Jackson ",
+  "devDependencies": {
+    "electron-prebuilt": "^0.32.2"
+  }
+}
