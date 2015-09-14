@@ -1,5 +1,5 @@
 
-An HTML5 stand alone app using GitHub Electron (Chrome engine + Node.js) -- this is a GUI wrapper for mbs droid
+An HTML5 stand alone app using GitHub Electron (Chrome engine + Node.js) -- this is a GUI wrapper example that runs and process output of a bash shell command. 
 
 # SETUP
 
@@ -14,9 +14,9 @@ $ sudo npm install electron-prebuilt -g
 ```
 #### Clone this repository
 ```Shell
-$ mkdir -p ~/projects/electron-mbs
-$ cd ~/projects/electron-mbs
-$ git clone https://github.com/martinjackson/mbs-electron-app.git
+$ mkdir ~/projects/
+$ git clone https://github.com/martinjackson/electron-run-shell-example.git
+$ cd electron-run-shell-example
 ```
 #### initialize node modules
 ```Shell
